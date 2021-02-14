@@ -1,3 +1,5 @@
+#edit distance program
+#dynamic progrmaing
 def editdistance(string1,string2,m,n):
 	tab=[[0 for x in range(n + 1)] for x in range(m + 1)]
 	for i in range(m+1):
