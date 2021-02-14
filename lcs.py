@@ -1,3 +1,5 @@
+#program to find longest common subsequence
+#dynamic programing 
 def lcs(str1,str2,lenstr1,lenstr2):
 	if lenstr1==0 or lenstr2==0:
 		return 0
