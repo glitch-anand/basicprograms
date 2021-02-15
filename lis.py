@@ -1,3 +1,4 @@
+#longest increasing subsequence
 def lis(arr):
 	tab=[1]*len(arr)
 	for i in range(len(arr)):
