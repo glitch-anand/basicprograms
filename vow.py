@@ -1,3 +1,4 @@
+#vowel check
 s=input('enter the string')
 vow=['a','e','i','o','u']
 count=0
