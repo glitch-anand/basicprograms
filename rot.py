@@ -1,3 +1,4 @@
+#rotation
 temp=[]
 temp2=[]
 temp=input('enter array')
