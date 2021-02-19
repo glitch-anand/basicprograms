@@ -1,3 +1,4 @@
+#find median array
 arr1=list(map(int,input("enter the first array").split()))
 arr2=list(map(int,input("enter the second array").split()))
 print(arr1)
