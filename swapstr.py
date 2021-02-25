@@ -1,3 +1,4 @@
+#check to see if string is swapped
 n=int(input('enter n:'))
 string1=input('enter the first string')
 string2=input('enter the second string')
