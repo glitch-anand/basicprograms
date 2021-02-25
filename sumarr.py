@@ -1,3 +1,4 @@
+#check if sum is present on array
 s=int(input('enter s:'))
 arr=list(map(int,input().split()))
 print(arr)
